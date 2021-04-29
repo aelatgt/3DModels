@@ -1,0 +1,8 @@
+This folder contains the 3D models used and/or developed by Akshay Sathiya during the Spring 2021 semester. 
+
+Credits: 
+1. The `photoframe.blend` file contains the 3D model of my first photo frame (which is larger, made from several cube-based objects, and has inclined edges) and the 3D model of a second photo frame (which is sleeker and made from one cube-based object). The second photo frame was made by following Jisu Park's tutorial, which is linked here: https://www.youtube.com/watch?v=wS9K4pr5Mqc&feature=youtu.be. The image used in the photo frames is `wallpaper.jpeg`, which comes from here: https://www.walpaperlist.com/2020/01/cool-wallpapers-4k-ultra-hd.html. The image address is https://cdn.statically.io/img/wallpaperaccess.com/full/829215.jpg. 
+2. The `iphonepres.blend` file contains the 3D model of a podium based on the podium where Steve Jobs unveiled the first iPhone. The image used in this model is `iphonescene.png`, which shows an iPhone's call screen. The image comes from here: https://www.washingtonpost.com/news/the-switch/wp/2017/06/29/what-it-was-like-to-stand-in-line-for-the-first-iphone/. The image address is https://d1i4t8bqe7zgj6.cloudfront.net/06-29-2017/t_1498750383991_name_20170629_iPhonePic.jpg.  
+3. The 3D model of Buzz (`buzz.blend`) was created by William Colin Freeman. 
+4. The 3D model of the AR glasses (`original_glasses.blend`) was developed by Andrew Nazareth and was slightly modified by Akshay Sathiya (`glasses.blend`) so that it could be successfully imported into the A-Frame scene.
+5. The `scene.blend` file contains the 3D model the AR glasses exhibit of the futures room and contains the `buzz.blend` and `glasses.blend` models as described above. 
