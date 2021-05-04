@@ -1,4 +1,4 @@
-This folder contains the 3D models used and/or developed by Akshay Sathiya during the Spring 2021 semester. 
+This folder contains the 3D models that Akshay Sathiya developed or used during the Spring 2021 semester. 
 
 Credits: 
 1. The `old_photoframe.blend` file contains the 3D model of the first photo frame Akshay Sathiya developed (which is larger, made from several cube-based objects, and has inclined edges). The image used in the photo frame is `wallpaper.jpeg`, which comes from here: https://www.walpaperlist.com/2020/01/cool-wallpapers-4k-ultra-hd.html. The image address is https://cdn.statically.io/img/wallpaperaccess.com/full/829215.jpg. This 3D model is also available via the `old_photoframe.glb` file. 
